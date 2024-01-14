@@ -350,3 +350,15 @@ section h2 {
 .alert-error {
   background: red;
 }
+
+.card-cast {
+  width: auto;
+  float: left;
+  padding: 10px;
+}
+
+.card-img-top-cast{
+  width: 220px;
+  height: 330px;
+
+}
