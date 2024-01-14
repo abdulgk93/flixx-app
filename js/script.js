@@ -413,6 +413,7 @@ function init(){
             displayPopularMovies();
             break;
         case '/shows.html':
+        case '/shows':
             console.log('Shows');
             displayPopularShows();
             break;
